@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mukithalalim
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning PATTERN RECOGNITION AND NEURAL NETWORK
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PATTERN RECOGNITION AND NEURAL NETWORk
 - 📫 Email: mukithalalim@gmail.com
 
 <!---
